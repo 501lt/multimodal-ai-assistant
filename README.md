@@ -382,7 +382,9 @@ data/papers/
 
 
 
-- [▶️ 点此查看演示视频](docs/demo.mp4)
+- [▶️ 点此查看演示视频]
+(
+链接: https://pan.baidu.com/s/14Ry2uuyXJCZxnxqIDahMCw?pwd=jy21 提取码: jy21)
 
 ---
 
