@@ -63,7 +63,6 @@ desktop.ini
 *.swp
 
 # 大文件
-*.mp4
 *.avi
 *.mov
 data/papers/*.pdf
